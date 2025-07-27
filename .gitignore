@@ -1,0 +1,7 @@
+*.pdf
+__pycache__/
+*.zip
+*.onnx
+*.mp4
+*.safetensors
+challenge_1b/models/ # ignore large model files

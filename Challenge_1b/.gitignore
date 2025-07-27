@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Output
+Challenge_1b/*/challenge1b_output.json
+
+# Docker
+*.dockerfile
